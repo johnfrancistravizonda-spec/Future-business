@@ -156,6 +156,7 @@ th {
 
 <header>
   <h1>John's Inventory Management</h1>
+  <h2> Graham bites</h2>
   <p>Business Inventory Control System</p>
 </header>
 
